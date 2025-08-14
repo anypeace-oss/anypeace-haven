@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Anypeace",
-  description: "A software company that builds open-source tools.",
+  description: "A software company that builds open-source tools. ",
 };
 
 export default function RootLayout({
